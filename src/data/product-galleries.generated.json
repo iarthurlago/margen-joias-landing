@@ -1,0 +1,54 @@
+{
+  "MJ-03": [
+    {
+      "id": "MJ-03-A01",
+      "src": "/images/adicionais/mj-03-a01-720.webp",
+      "srcSet": "/images/adicionais/mj-03-a01-360.webp 360w, /images/adicionais/mj-03-a01-720.webp 720w, /images/adicionais/mj-03-a01-1080.webp 1080w",
+      "alt": "Par de brincos alongados, com arcos e correntes em camadas, sobre tecido claro.",
+      "width": 1440,
+      "height": 1920,
+      "sourceUrl": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=2",
+      "sourceAiLabel": "AI content exibido no post; não é possível atribuir o tratamento a cada slide.",
+      "usage": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "priority": 1
+    },
+    {
+      "id": "MJ-03-A03",
+      "src": "/images/adicionais/mj-03-a03-720.webp",
+      "srcSet": "/images/adicionais/mj-03-a03-360.webp 360w, /images/adicionais/mj-03-a03-720.webp 720w, /images/adicionais/mj-03-a03-1080.webp 1080w",
+      "alt": "Detalhe do par de brincos de correntes e arcos dourados sobre tecido claro.",
+      "width": 1320,
+      "height": 1760,
+      "sourceUrl": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=4",
+      "sourceAiLabel": "AI content exibido no post; não é possível atribuir o tratamento a cada slide.",
+      "usage": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "priority": 2
+    },
+    {
+      "id": "MJ-03-A02",
+      "src": "/images/adicionais/mj-03-a02-720.webp",
+      "srcSet": "/images/adicionais/mj-03-a02-360.webp 360w, /images/adicionais/mj-03-a02-720.webp 720w, /images/adicionais/mj-03-a02-768.webp 768w",
+      "alt": "Par de brincos de correntes em composição com pérolas e ornamento dourado; texto sobreposto.",
+      "width": 768,
+      "height": 1024,
+      "sourceUrl": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=3",
+      "sourceAiLabel": "AI content exibido no post; não é possível atribuir o tratamento a cada slide.",
+      "usage": "Composição editorial secundária; preservar texto.",
+      "priority": 3
+    }
+  ],
+  "MJ-04": [
+    {
+      "id": "MJ-04-A01",
+      "src": "/images/adicionais/mj-04-a01-720.webp",
+      "srcSet": "/images/adicionais/mj-04-a01-360.webp 360w, /images/adicionais/mj-04-a01-720.webp 720w, /images/adicionais/mj-04-a01-1080.webp 1080w",
+      "alt": "Colar de elos redondos com pantera de superfície cravejada, olhos vermelhos e patas douradas, sobre tecido claro.",
+      "width": 3024,
+      "height": 4032,
+      "sourceUrl": "https://www.instagram.com/margenjoias/p/Dcyz3O1FBdf/?img_index=8",
+      "sourceAiLabel": null,
+      "usage": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "priority": 1
+    }
+  ]
+}

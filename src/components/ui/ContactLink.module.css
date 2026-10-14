@@ -1,0 +1,21 @@
+.solid, .outline, .text {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  min-height: 48px;
+  max-width: 100%;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: background-color 160ms, color 160ms;
+}
+.solid, .outline { padding: 13px 24px; border: 1px solid var(--wine); }
+.solid { background: var(--wine); color: var(--paper); }
+.solid:hover { background: var(--wine-hover); }
+.outline { color: var(--wine); }
+.outline:hover { background: var(--wine); color: var(--paper); }
+.text { justify-content: space-between; border-bottom: 1px solid currentColor; color: var(--wine); padding-block: 8px; }
+.text:hover { color: var(--gold); }
+.solid > span[aria-hidden], .outline > span[aria-hidden], .text > span[aria-hidden] { font-size: 1.125rem; }

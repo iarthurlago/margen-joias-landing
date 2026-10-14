@@ -1,0 +1,221 @@
+{
+  "versao": "1.0",
+  "data_coleta": "2026-10-06",
+  "total_fotos_adicionais": 4,
+  "total_produtos_com_adicionais": 2,
+  "criterio": "Coleta complementar dos produtos existentes. Associação visual conservadora, sem inferir SKU, preço, estoque ou materiais adicionais. Pesquisa dirigida, não exaustiva de todo o perfil.",
+  "imagens": [
+    {
+      "id": "MJ-03-A01",
+      "produto_id": "MJ-03",
+      "arquivo": "imagens-adicionais/mj-03-a01-brincos-par-tecido.jpg",
+      "alt": "Par de brincos alongados, com arcos e correntes em camadas, sobre tecido claro.",
+      "largura": 1440,
+      "altura": 1920,
+      "bytes": 382990,
+      "sha256": "d717bf39eabab76e12e19f7046a63827484dac5318e433b583301accc793cbc4",
+      "formato": "image/jpeg",
+      "prioridade": 1,
+      "texto_sobreposto": false,
+      "uso_sugerido": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "edicoes": "Nenhuma no original baixado. Versões WebP apenas redimensionadas e comprimidas.",
+      "correspondencia": "Mesmo desenho de arcos, correntes em camadas e detalhe central; mesmo carrossel da imagem original.",
+      "fonte": {
+        "plataforma": "Instagram",
+        "autor": "margenjoias",
+        "url": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=2",
+        "posicao_carrossel": 2,
+        "data_publicacao": "2026-04-09",
+        "data_consulta": "2026-10-06",
+        "arquivo_remoto_nome": "670529081_18346212886214308_2679305691539499585_n.jpg",
+        "arquivo_remoto_url": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/670529081_18346212886214308_2679305691539499585_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzg3MTYxOTMzMzIwMjI2Mjg0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wxuTcZnZAJMQ7kNvwF4eBtQ&_nc_oc=Ado7_mHXbAGQokvvkDafxcEA1GGYIocOKSjSFoPT6GiNcRtj8R8sg2EpecsExRRE04HQxOG6E_2H4BT7FtQqcIxX&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=BjZcR17T8-GGBljSq6zp3Q&_nc_ss=7a22e&oh=00_AQNzApJBWEkabLvezsjfa1ftONv6gCSbb6nEfwf9rgumXA&oe=6ACB1E52",
+        "rotulo_ia": "AI content exibido no post; não é possível atribuir o tratamento a cada slide."
+      }
+    },
+    {
+      "id": "MJ-03-A02",
+      "produto_id": "MJ-03",
+      "arquivo": "imagens-adicionais/mj-03-a02-brincos-composicao-perolas.jpg",
+      "alt": "Par de brincos de correntes em composição com pérolas e ornamento dourado; texto sobreposto.",
+      "largura": 768,
+      "altura": 1024,
+      "bytes": 156560,
+      "sha256": "e86cea5a653a86afba4df289b397d525e23283232454729efbe3e52eb10644e9",
+      "formato": "image/jpeg",
+      "prioridade": 3,
+      "texto_sobreposto": true,
+      "uso_sugerido": "Composição editorial secundária; preservar texto.",
+      "edicoes": "Nenhuma no original baixado. Versões WebP apenas redimensionadas e comprimidas.",
+      "correspondencia": "Mesmo desenho de arcos, correntes em camadas e detalhe central; mesmo carrossel da imagem original.",
+      "fonte": {
+        "plataforma": "Instagram",
+        "autor": "margenjoias",
+        "url": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=3",
+        "posicao_carrossel": 3,
+        "data_publicacao": "2026-04-09",
+        "data_consulta": "2026-10-06",
+        "arquivo_remoto_nome": "670149659_18346212895214308_5520574464553369288_n.jpg",
+        "arquivo_remoto_url": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/670149659_18346212895214308_5520574464553369288_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg3MTYxOTM0NjkzNDQxNjAxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzY4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=rrQOM4mPJFAQ7kNvwGPw3-m&_nc_oc=AdoOi759-hsAes9uF3jk_LSaRiPeO3u8Uc6U6K3nc_ZqFj3t_7bijKcdWepiSYZazlW-fXGEg2mC4Ck3jMnAStse&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=BjZcR17T8-GGBljSq6zp3Q&_nc_ss=7a22e&oh=00_AQPKyWFG_ZApIc3pkQ08l5NoU4LISQVD1-hVrYckHWpVBA&oe=6ACB173C",
+        "rotulo_ia": "AI content exibido no post; não é possível atribuir o tratamento a cada slide."
+      }
+    },
+    {
+      "id": "MJ-03-A03",
+      "produto_id": "MJ-03",
+      "arquivo": "imagens-adicionais/mj-03-a03-brincos-detalhe-par.jpg",
+      "alt": "Detalhe do par de brincos de correntes e arcos dourados sobre tecido claro.",
+      "largura": 1320,
+      "altura": 1760,
+      "bytes": 318085,
+      "sha256": "758b5e62da7c3da44dfaaca4f5221858334d47c1fda9b06d94a3c1a3949508b7",
+      "formato": "image/jpeg",
+      "prioridade": 2,
+      "texto_sobreposto": false,
+      "uso_sugerido": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "edicoes": "Nenhuma no original baixado. Versões WebP apenas redimensionadas e comprimidas.",
+      "correspondencia": "Mesmo desenho de arcos, correntes em camadas e detalhe central; mesmo carrossel da imagem original.",
+      "fonte": {
+        "plataforma": "Instagram",
+        "autor": "margenjoias",
+        "url": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/?img_index=4",
+        "posicao_carrossel": 4,
+        "data_publicacao": "2026-04-09",
+        "data_consulta": "2026-10-06",
+        "arquivo_remoto_nome": "670452539_18346212916214308_2524824733202028986_n.jpg",
+        "arquivo_remoto_url": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/670452539_18346212916214308_2524824733202028986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzg3MTYxOTM1MjI4NjMzOTkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dvh2uR4CKIIQ7kNvwGSSQZO&_nc_oc=AdqoCyF_k6vPS0zGRLdxx_e2jowR9gf7F07vrZ7Kt_Ekz-8YQnfvel1YTnUVMVjIRehcMbyC3pDja6ckvHIf19AQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=BjZcR17T8-GGBljSq6zp3Q&_nc_ss=7a22e&oh=00_AQNgt2-iMmB27QuVQ1DKw8yFKkA1v-VRGTmfpvtyYIdQew&oe=6ACB3B33",
+        "rotulo_ia": "AI content exibido no post; não é possível atribuir o tratamento a cada slide."
+      }
+    },
+    {
+      "id": "MJ-04-A01",
+      "produto_id": "MJ-04",
+      "arquivo": "imagens-adicionais/mj-04-a01-colar-pantera-tecido-claro.jpg",
+      "alt": "Colar de elos redondos com pantera de superfície cravejada, olhos vermelhos e patas douradas, sobre tecido claro.",
+      "largura": 3024,
+      "altura": 4032,
+      "bytes": 889293,
+      "sha256": "f70421b21f28359be61dad7f2f6a3535c412e0379c617a58c24f4792f9964f8c",
+      "formato": "image/jpeg",
+      "prioridade": 1,
+      "texto_sobreposto": false,
+      "uso_sugerido": "Galeria do produto; enquadramento integral (object-fit: contain).",
+      "edicoes": "Nenhuma no original baixado. Versões WebP apenas redimensionadas e comprimidas.",
+      "correspondencia": "Mesmo desenho da pantera cravejada, olhos vermelhos, patas douradas, argola larga e corrente de elos redondos. Comparação visual; SKU não informado.",
+      "fonte": {
+        "plataforma": "Instagram",
+        "autor": "margenjoias",
+        "url": "https://www.instagram.com/margenjoias/p/Dcyz3O1FBdf/?img_index=8",
+        "posicao_carrossel": 8,
+        "data_publicacao": "2026-09-02",
+        "data_consulta": "2026-10-06",
+        "arquivo_remoto_nome": "792840880_18365874310214308_6479996305376682747_n.jpg",
+        "arquivo_remoto_url": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/792840880_18365874310214308_6479996305376682747_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NzQ2OTQ0MjQ5MzY4MTk1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BnlqJSAY3zkQ7kNvwGAxHTg&_nc_oc=Ado6pR4SAdIo9USzBjm7RA9nL3KysK31oZRJlUP5OL7Ps2WNWXfTIUs1Ci60Zl6N7ncC6fTreEpeGGCsxnLPYkJY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=TbEVWwPIF-G76MxKHke_2A&_nc_ss=7a22e&oh=00_AQNzTRhQuPUJGObuolsL8pu9cQ4qwSXoIaOAD7pU2GNe9w&oe=6ACB0699",
+        "rotulo_ia": null
+      }
+    }
+  ],
+  "cobertura": [
+    {
+      "produto_id": "MJ-01",
+      "nome": "Colares com pingentes afetivos",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-02",
+      "nome": "Colar e brincos com pedras coloridas",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-03",
+      "nome": "Brincos de correntes em ouro 18k",
+      "novas_fotos": 3,
+      "status": "correspondencia_visual_localizada"
+    },
+    {
+      "produto_id": "MJ-04",
+      "nome": "Colar pantera com elos portugueses",
+      "novas_fotos": 1,
+      "status": "correspondencia_visual_localizada"
+    },
+    {
+      "produto_id": "MJ-05",
+      "nome": "Pulseira Fé em ouro 18k",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-06",
+      "nome": "Pulseira com medalha e símbolos",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-07",
+      "nome": "Pulseira com esmeraldas",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-08",
+      "nome": "Seleção de colares com pingentes",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-09",
+      "nome": "Relógios Champion na vitrine",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    },
+    {
+      "produto_id": "MJ-10",
+      "nome": "Composição de anéis",
+      "novas_fotos": 0,
+      "status": "sem_nova_correspondencia_confirmada_nos_posts_revisados"
+    }
+  ],
+  "publicacoes_revisadas": [
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/",
+      "itens_revisados": 4,
+      "resultado": "Três novas fotos do produto MJ-03."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DYVRgw_lDo9/",
+      "itens_revisados": 13,
+      "resultado": "Conjunto na capa já cadastrado. Demais imagens mostram outras peças, inclusive anel da mesma linha; não associadas como novas vistas do conjunto."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/Dcyz3O1FBdf/",
+      "itens_revisados": 20,
+      "resultado": "Nova foto do colar pantera MJ-04 no slide 8. A outra pantera vazada do slide 15 tem desenho diferente e foi excluída."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DWBzyvzDqsD/",
+      "itens_revisados": 7,
+      "resultado": "Colares com outros pingentes; sem correspondência confirmada."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DV8wmAxDvuB/",
+      "itens_revisados": 7,
+      "resultado": "Pulseiras com outros elos, braceletes e medalhas; sem correspondência confirmada."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DW3mr--Do4X/",
+      "itens_revisados": 2,
+      "resultado": "Pulseira com coração vazado, diferente dos produtos cadastrados."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/DbRhdAhjpIL/",
+      "itens_revisados": 20,
+      "resultado": "Outros colares, anéis e relógios. Sem nova vista confirmada dos produtos cadastrados."
+    },
+    {
+      "url": "https://www.instagram.com/margenjoias/p/Ddv98GznI-V/",
+      "itens_revisados": 14,
+      "resultado": "Outros modelos de anéis, colares, brincos e pulseiras. Sem correspondência confirmada."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "data": "2026-10-07",
+  "tipo": "recriacao_por_ia",
+  "originais_preservados": true,
+  "imagens": [
+    {
+      "arquivo": "mj-03-v1-frontal-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "bytes": 1750666,
+      "sha256": "8c74b3b05c6286724127061ae977f342f0b15634f4c1b67717d0957ec1f209ee",
+      "pixels_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          254
+        ]
+      ]
+    },
+    {
+      "arquivo": "mj-03-v2-diagonal-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "bytes": 1837539,
+      "sha256": "e4802a43d285693918153080fe74ff63c1eac8fb50fbe7efe1db777c12f32332",
+      "pixels_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ]
+    },
+    {
+      "arquivo": "mj-04-v1-colar-completo-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "bytes": 1463002,
+      "sha256": "51a7dbf5233a584e5ad01cf4ede06108faa48aa6aa4b68567c7eeffd4654f47e",
+      "pixels_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          254,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          254
+        ]
+      ]
+    },
+    {
+      "arquivo": "mj-04-v2-macro-pantera-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "bytes": 1970100,
+      "sha256": "5febe1bce92e676e91f9056fef469e4a2b1a8638550cf0221c248602ba0d98a7",
+      "pixels_cantos": [
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          253
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          253
+        ]
+      ]
+    }
+  ]
+}

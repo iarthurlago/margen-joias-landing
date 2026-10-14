@@ -1,0 +1,11 @@
+.section { background: var(--wine); color: #f9f3eb; padding-block: 52px; }
+.inner { display: grid; gap: 38px; align-items: center; }
+.imageFrame { width: 100%; max-width: 380px; aspect-ratio: 3 / 4; justify-self: center; background: #5b3335; }
+.copy { max-width: 475px; }
+.copy > p:first-child { color: #d2b797; }
+.copy h2 { margin-block: 20px 26px; }
+.copy em { color: #e1c7aa; }
+.copy > p:not(:first-child) { color: #e0d0cc; margin-top: 16px; }
+.copy > a { color: #f9f3eb; border-color: #bea087; margin-top: 30px; }
+.copy > a:hover { background: #f9f3eb; color: var(--wine); }
+@media (min-width: 52rem) { .section { padding-block: 70px; } .inner { grid-template-columns: 1fr 1.1fr; gap: 88px; } }

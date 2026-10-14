@@ -1,0 +1,45 @@
+{
+  "data": "2026-10-07",
+  "ferramenta": "image_gen integrada",
+  "referencia_estetica": "https://www.tiffany.com.br/",
+  "imagens": [
+    {
+      "produto_id": "MJ-03",
+      "arquivo": "mj-03-v1-frontal-branco.png",
+      "titulo": "Brincos — composição frontal",
+      "prompt": "Use case: precise-object-edit. Create ONE luxury commercial jewelry product photograph, variation MJ-03 V1. Image 1 is the exact jewelry edit target; image 2 is supporting detail reference of the SAME pair. Preserve the exact objects, all structural geometry, proportions, small link topology, attachment points and gemstone setting design. Replace the fabric/environment ONLY with pristine infinite solid pure white #FFFFFF, textureless and horizonless. Present the complete pair centered, upright side by side, balanced front view matching the reference, generous white margins. Each earring has exactly three nested pointed arch/chevron metal components connected at their peaks, exactly three fine round-link U shaped chain swags of differing lengths attached to arch tips, and the original small elongated central clear-stone cluster hanging inside. Retain actual reference metal colors including pale metallic reflected faces and yellow-gold chains/edges. Do not replace with a different earring, do not add stones, do not change cluster configuration, do not thicken chains, do not simplify links. Jewelry itself must be meticulously copied from references. Tiffany & Co. caliber editorial lighting only, no branding. Large diffused softbox lighting, immaculate controlled metallic reflections, realistic delicate gemstone dispersion, no artificial starbursts, ultra sharp 100mm macro lens focus throughout jewelry. No harsh or heavy shadows; virtually imperceptible soft contact shadow only. Hyper-detailed extreme photorealism, pristine metal, highest available native resolution, 8K visual detail aesthetic. Portrait 3:4 composition. No fabric, props, pedestal, people, text, logos, watermarks, gradients, beige or gray background. Output ONE standalone photo, no collage.",
+      "referencias": [
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-03-a01-brincos-par-tecido.jpg",
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-03-a03-brincos-detalhe-par.jpg"
+      ]
+    },
+    {
+      "produto_id": "MJ-03",
+      "arquivo": "mj-03-v2-diagonal-branco.png",
+      "titulo": "Brincos — composição diagonal",
+      "prompt": "Use case: precise-object-edit. ONE separate luxury commercial photograph, MJ-03 variation 2. Input image 1 is the exact jewelry and arrangement to preserve. Input image 2 is supporting detail of SAME pair. Precisely preserve the pair as photographed: left earring lower, right earring higher, both fully visible with the same slight diagonal tilt and camera perspective as image 1. Do not mirror or redesign them or make them perfectly identical. Replace ONLY fabric with flat infinite #FFFFFF pure white textureless background, keeping every small jewelry shape and proportion intact. THREE thin pointed nested metal arches per earring with original small articulated apex joints, THREE fine gold round-link U loops per earring, one small elongated cluster of clear stones hanging centrally; exact stone sizes/arrangement from references. Retain original delicate chain thickness and original arch length-to-width ratios; no enlargement of gemstones, no additional prongs, no invented details or backside. Editorial composition tighter than a catalog overview, pair occupies ~85% portrait 3:4 frame but every chain remains inside frame. Tiffany & Co. level commercial studio quality, zero logos or added branding. 100mm macro lens, subtle directional broad softbox from upper right and gentle fill for pristine metal reflections, immaculate but realistic gemstones, all jewelry sharply focused. White field absolutely uniform RGB255,255,255 no vignette or gradient, no texture or fabric grain, no pedestal, props, typography, hands, stand or harsh shadow. Extreme photorealism, highest native resolution, 8K aesthetic detail. Priority is fidelity to exact existing jewelry over stylization. ONE image no collage.",
+      "referencias": [
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-03-a01-brincos-par-tecido.jpg",
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-03-a03-brincos-detalhe-par.jpg"
+      ]
+    },
+    {
+      "produto_id": "MJ-04",
+      "arquivo": "mj-04-v1-colar-completo-branco.png",
+      "titulo": "Pantera — colar completo",
+      "prompt": "Use case: precise-object-edit. One high-end luxury studio product photograph MJ-04 V1. Input is exact Margen necklace edit target. Preserve this SAME necklace exactly, not a new panther jewelry design. Replace fabric with infinite textureless pristine PURE WHITE #FFFFFF. Keep the same front/overhead view, entire necklace with the round spring ring clasp visible at upper end, the original flexible arrangement of round interlocking Portuguese gold links and exactly the original link thickness and proportions relative to pendant. Center the necklace in a portrait 3:4 canvas with ample clean white margins. Preserve panther pendant sculptural pose, head facing down and forward/right as seen, curved left tail, limb positions, silver-toned tiny clear pavé surface, original yellow gold muzzle/ear outlines and front paws, red eyes, and broad polished yellow-gold bail on the back. Preserve exactly the original distribution of metal and stones, shapes and connections; DO NOT turn panther into leopard, add black spots, change legs or tail, enlarge eyes, invent gems or a different chain. White background ONLY, no fabric, shadows from folds, props, podium, packaging or other jewelry. Tiffany & Co. editorial product photography aesthetic, no Tiffany branding or lettering. 100mm macro lens, ultra-sharp jewelry, large diffused studio softboxes producing luxurious controlled gold reflections and restrained physically realistic clear stone scintillation. No heavy shadows or exaggerated sparkle. Highest native resolution with 8K detail aesthetic, extreme photorealism. Preserve object's exact identity as overriding priority. ONE standalone image, no collage, no text.",
+      "referencias": [
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-04-a01-colar-pantera-tecido-claro.jpg"
+      ]
+    },
+    {
+      "produto_id": "MJ-04",
+      "arquivo": "mj-04-v2-macro-pantera-branco.png",
+      "titulo": "Pantera — detalhe macro",
+      "prompt": "Use case: precise-object-edit. ONE luxury macro product photograph MJ-04 variation 2. Input is exact jewelry identity reference. Create a tighter macro composition of the SAME panther pendant and adjoining lower U of gold chain. Retain the identical viewing direction as the original photo, do not invent an unseen side. Crop ONLY distant upper chain/clasp out of composition; keep whole panther, tail, four original legs and broad gold bail fully in frame with white breathing space. Pendant occupies approximately central 55% frame width, attached chain rises naturally beyond upper frame edges. Exact pendant sculpture, crouching pose, small red eyes, gold ear/muzzle outlines, yellow-gold forepaws, silver-dark tiny clear pavé body, curled left tail, original limb spacing and original broad smooth yellow-gold bail. Exactly reproduce reference, no redesigned animal, no additional gemstones, no black spots, no changing proportions, no larger eyes, no new anatomical details, no altered chain geometry. Replace entire fabric environment with infinite solid pure white #FFFFFF; absolutely no background textures, horizon, gradient, gray, ivory, fabric, platform, people or props. Tiffany & Co. editorial caliber, no branding/text. Immaculate diffused softbox lighting with gentle side highlights, realistic metal reflections and physically accurate restrained gemstone light dispersion, no artificial sparkle stars. 100mm macro lens, focus stacked ultra sharp jewelry, shallow shadow only if imperceptible. Extreme photorealism and hyper-detail, highest available native resolution with 8K visual quality aesthetic. Portrait 3:4. ONE standalone photograph, not collage.",
+      "referencias": [
+        "C:\\Users\\iath\\Downloads\\LandingPages\\Margen\\conteudo-landing\\imagens-adicionais\\mj-04-a01-colar-pantera-tecido-claro.jpg"
+      ]
+    }
+  ]
+}

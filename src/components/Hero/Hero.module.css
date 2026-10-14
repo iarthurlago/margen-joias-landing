@@ -1,0 +1,17 @@
+.hero { display: grid; gap: 40px; padding-block: 48px 56px; }
+.copy { align-self: center; }
+.copy h1 { font-size: clamp(3rem, 7vw, 5.35rem); line-height: 1.04; margin-top: 24px; }
+.copy h1 em { display: block; }
+.description { color: var(--muted); max-width: 390px; margin-top: 24px; font-size: 1rem; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 26px; margin-top: 30px; }
+.explore { min-height: 50px; display: inline-flex; align-items: center; justify-content: space-between; gap: 28px; background: var(--wine); color: var(--paper); padding: 14px 22px; text-decoration: none; font-size: .875rem; line-height: 1.5; }
+.explore:hover { background: var(--wine-hover); }
+.signature { border-left: 1px solid var(--gold); padding-left: 18px; color: var(--muted); font-size: .8125rem; margin-top: 34px; }
+.figure { width: 100%; max-width: 440px; justify-self: center; }
+.imageFrame { aspect-ratio: 3 / 4; background: #f0d7c9; }
+.figure figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; font-size: .75rem; color: var(--muted); padding-block: 14px; line-height: 1.5; }
+.figure figcaption span:first-child { color: var(--gold); }
+@media (min-width: 52rem) {
+  .hero { grid-template-columns: 1.1fr 1fr; gap: 44px; padding-block: 52px 64px; }
+  .figure { justify-self: end; }
+}

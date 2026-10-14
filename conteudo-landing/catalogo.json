@@ -1,0 +1,545 @@
+{
+  "versao": "1.0",
+  "idioma": "pt-BR",
+  "data_coleta": "2026-09-11",
+  "total_fotos": 10,
+  "empresa": {
+    "nome": "Margen Joias",
+    "data_consulta": "2026-09-11",
+    "instagram": "https://www.instagram.com/margenjoias/",
+    "whatsapp": "https://wa.me/5579998080745",
+    "telefone": "+55 79 99808-0745",
+    "maps": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx",
+    "endereco": {
+      "logradouro": "Rua Dr. Osório de Araújo Ramos",
+      "numero": "333",
+      "complemento": "Sala 06, Galeria Áurea Sampaio",
+      "bairro": "13 de Julho",
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "cep": "49020-700",
+      "fonte": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx"
+    },
+    "coordenadas": {
+      "latitude": -10.932819,
+      "longitude": -37.0502016
+    },
+    "horarios": {
+      "segunda": "09:00–18:30",
+      "terca": "09:00–18:30",
+      "quarta": "09:00–18:30",
+      "quinta": "09:00–18:00",
+      "sexta": "09:00–18:30",
+      "sabado": "09:00–13:00",
+      "domingo": "Fechado",
+      "fonte": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx"
+    },
+    "avaliacao_google": {
+      "nota": 5.0,
+      "quantidade": 10,
+      "consultado_em": "2026-09-11",
+      "fonte": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx"
+    },
+    "historia": {
+      "anos_declarados_na_bio": 12,
+      "desde": 2014,
+      "evidencia": "Bio do Instagram informa 12 anos; embalagem na foto MJ-01 traz Desde 2014.",
+      "fontes": [
+        "https://www.instagram.com/margenjoias/",
+        "https://www.instagram.com/margenjoias/p/Dcyz3O1FBdf/"
+      ]
+    },
+    "categorias_declaradas": [
+      "Joias em ouro",
+      "Joias em prata",
+      "Alianças",
+      "Anéis",
+      "Relógios",
+      "Semijoias"
+    ],
+    "categorias_fontes": [
+      "https://www.instagram.com/margenjoias/",
+      "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx"
+    ],
+    "servicos_declarados": {
+      "itens": [
+        "Atendimento personalizado",
+        "Compras na loja",
+        "Retirada",
+        "Entrega"
+      ],
+      "fonte": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx",
+      "observacao": "Prazo, área de entrega e frete não informados."
+    },
+    "divergencias_resolvidas": "Diretórios secundários mostram endereço antigo na Suíssa. Priorizar Maps atual e bio oficial na Galeria Áurea Sampaio."
+  },
+  "criterios": [
+    "Até 10 fotos, sem duplicatas.",
+    "Publicações da marca e fotos do proprietário no Maps.",
+    "Nomes são descrições editoriais, não nomes oficiais ou SKUs.",
+    "Campos nulos significam informação não localizada.",
+    "Fotos com múltiplas peças são registros de seleção e não produtos únicos vendáveis."
+  ],
+  "produtos": [
+    {
+      "id": "MJ-01",
+      "slug": "colares-pingentes-afetivos",
+      "nome_editorial": "Colares com pingentes afetivos",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Colares",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Dois colares de tonalidade dourada com pequenos pingentes claros, apresentados em estojos vermelhos da Margen.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro citado na legenda; teor não especificado."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/Dcyz3O1FBdf/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-09-02",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A publicação associa as joias à história pessoal e ao ouro. Os estojos trazem a inscrição Desde 2014.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/793140023_18365874196214308_8744071774322863044_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=111&ig_cache_key=Mzk3NzQ2OTQyNTMyMjI1NjY2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=uaw_fvRWxcUQ7kNvwErylex&_nc_oc=AdrLV9hgkCMtNZDoiidgHUzBbXR5CruAIceKS83w37KHvCY2UskmEwINTRiavfb6283c38REeb7DCH_MOCJW0Dqt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=Y8c6Snq7Yg-UWpBIYSez6g&_nc_ss=7a22e&oh=00_AQK8LxZI3OlXRVKHRfouxx3LAKHqPstuZVS6g0na0pTBgg&oe=6AAA0669",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/01-colares-pingentes-afetivos.jpg",
+        "alt": "Dois colares de tonalidade dourada com pequenos pingentes claros, apresentados em estojos vermelhos da Margen.",
+        "largura": 3024,
+        "altura": 4032,
+        "bytes": 566585,
+        "sha256": "bbeaacf729cce37bcbf9d739e63bf7292057cd36d0cd76b0c46466902442d7f6",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 40%"
+      },
+      "uso_sugerido": "Presentes e joias com significado. Foto recente com embalagem da marca.",
+      "observacoes": "Confirmar composição dos pingentes e se os colares são vendidos separadamente.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20colares%20com%20pingentes%20afetivos%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/Dcyz3O1FBdf/"
+      }
+    },
+    {
+      "id": "MJ-02",
+      "slug": "colar-brincos-pedras-coloridas",
+      "nome_editorial": "Colar e brincos com pedras coloridas",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Conjuntos",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Colar e par de brincos com elementos ovais e em gota, em tons vinho, amarelo e acinzentado, sobre tecido claro.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro 18k, informado na legenda.",
+        "pedras": "Pedras naturais, informadas na legenda; espécies não identificadas."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DYVRgw_lDo9/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-05-14",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda apresenta pedras naturais e ouro 18k. Não informa quais gemas compõem o conjunto.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/670861655_18350607784214308_6316101253389869913_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg5NzA5NzAxNzA1NTA4MzY1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=q_0wFgyyo_IQ7kNvwHiT2ke&_nc_oc=AdrxzXjCI8F-4b5Tfl0P3P5XcCIuwztdXUB1anWnL74FmFf1EZPdQgm20OzugaeEJQb_m04vwIcLif7vR8qG5_Sb&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=-GD_x8Php0NTQg1wwSIciA&_nc_ss=7a22e&oh=00_AQLZQxfaKfNQjkCYwK711Ab1pFLhX7qwIsuuk6VX4eKM4A&oe=6AAA211F",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/02-colar-brincos-pedras-coloridas.jpg",
+        "alt": "Colar e par de brincos com elementos ovais e em gota, em tons vinho, amarelo e acinzentado, sobre tecido claro.",
+        "largura": 1320,
+        "altura": 1760,
+        "bytes": 269551,
+        "sha256": "d3d52cee2a15ad6a8d20eb949ac76c5bf2bc228e1208989879dd2f5f5ae075cd",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 70%"
+      },
+      "uso_sugerido": "Seção de pedras coloridas ou galeria de conjuntos.",
+      "observacoes": "Foto contém texto sobreposto na parte superior. Confirmar espécies das gemas e venda conjunta ou separada.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20colar%20e%20brincos%20com%20pedras%20coloridas%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DYVRgw_lDo9/"
+      }
+    },
+    {
+      "id": "MJ-03",
+      "slug": "brincos-correntes-ouro18k",
+      "nome_editorial": "Brincos de correntes em ouro 18k",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Brincos",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Brinco alongado em uso, com arcos dourados, correntes finas em camadas e detalhe central brilhante.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro 18k 750, informado na legenda e na imagem.",
+        "pedras": "A legenda usa o termo brilhantes; peso e certificação não informados."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DW6whrajj-n/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-04-09",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda informa ouro 18k 750 e brilhantes. O texto impresso na imagem também informa ouro 18k.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/662431446_18346212877214308_907621820176364920_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzg3MTYxOTMzMzIzNTg1ODQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GhD2eUWR7xUQ7kNvwG3b2eJ&_nc_oc=Adon8T3gEFZ7l6vHfztQTcE_P40nbGLYxsKWBKAy7ELslvpUR9ZgmrjGz-dh4oy02wqKlIHZ9utQJzppDPOZpGQD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=-GD_x8Php0NTQg1wwSIciA&_nc_ss=7a22e&oh=00_AQKywoDTK-1FZia3sTSHvhUpBhUqIe5l9zjWJCHGfZ-kjQ&oe=6AA9FD20",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/03-brincos-correntes-ouro18k.jpg",
+        "alt": "Brinco alongado em uso, com arcos dourados, correntes finas em camadas e detalhe central brilhante.",
+        "largura": 1320,
+        "altura": 1760,
+        "bytes": 115369,
+        "sha256": "129a9df15ebbded5b02dbc1ccd3edce6e235673c3d29d8191f917579ad225b13",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 30%"
+      },
+      "uso_sugerido": "Seção de brincos; imagem em uso para mostrar o caimento.",
+      "observacoes": "Há texto sobreposto na base. A foto mostra um lado; confirmar venda por par e dimensões.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20brincos%20de%20correntes%20em%20ouro%2018k%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DW6whrajj-n/"
+      }
+    },
+    {
+      "id": "MJ-04",
+      "slug": "colar-pantera-elos-portugueses",
+      "nome_editorial": "Colar pantera com elos portugueses",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Colares",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Corrente de elos redondos com pingente em forma de pantera, superfície brilhante clara e detalhes dourados, em fundo rosado.",
+      "informacoes_confirmadas_na_fonte": {
+        "corrente": "Elos portugueses em ouro 18, conforme a legenda.",
+        "pingente": "Pantera citada na legenda; composição e gemas não detalhadas."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DWg9g2TE4oq/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-03-30",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda identifica elos portugueses em ouro 18 e o motivo pantera.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/658392037_18344978731214308_1892133319572304002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg2NDM1OTAxODQ0NjQyNDYxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sLwztEsJFY8Q7kNvwFCjgc6&_nc_oc=Adr-lWlKBibnKdPznng6A4qDrRTCtMpnTwxI__xzevJhExA4TSdQBbd5UUcSCTn5bdxUEiQUJoImoJ8zzht59lP0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=-GD_x8Php0NTQg1wwSIciA&_nc_ss=7a22e&oh=00_AQLc69eKC3m6cDYncC141dVmd_fZsQTCi8qUmhIbuNqVKA&oe=6AAA1E38",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/04-colar-pantera-elos-portugueses.jpg",
+        "alt": "Corrente de elos redondos com pingente em forma de pantera, superfície brilhante clara e detalhes dourados, em fundo rosado.",
+        "largura": 1440,
+        "altura": 1920,
+        "bytes": 96760,
+        "sha256": "c5d77712829d05b10bcbace635e128faaa0a88a6882b336f6605b99a765690d8",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 58%"
+      },
+      "uso_sugerido": "Destaque principal da vitrine e imagem de abertura em composição dividida com texto.",
+      "observacoes": "Não estender o teor da corrente ao pingente sem confirmação. Não identificar as pedras como diamantes pela foto.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20colar%20pantera%20com%20elos%20portugueses%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DWg9g2TE4oq/"
+      }
+    },
+    {
+      "id": "MJ-05",
+      "slug": "pulseira-fe-ouro18k",
+      "nome_editorial": "Pulseira Fé em ouro 18k",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Pulseiras",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Pulseira de elos dourados com pingente escrito FÉ, com pequenos pontos brilhantes claros, sobre apoio dourado.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro 18k 750, informado na legenda."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DWgybzdjrhn/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-03-30",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda informa ouro 18k 750. O pingente FÉ é identificado visualmente.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/657832263_18344968909214308_4735979463681810008_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg2NDMxMDI5MzI5MjAzODI0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0GiQ041Cg9AQ7kNvwGdc0Oa&_nc_oc=AdpP9JWBZR2Qi7nw_whLpEYZa4z8ZjetGo4OPXutp6HmzucUnTELDpnX7rMbVDP7yy4xzdyohgQkOwrhbEuB-mw8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=-GD_x8Php0NTQg1wwSIciA&_nc_ss=7a22e&oh=00_AQI24U8U7X_CvHNZe7DRA6uPsqoqJsfVQY71nDeuLG4aAA&oe=6AAA01A9",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/05-pulseira-fe-ouro18k.jpg",
+        "alt": "Pulseira de elos dourados com pingente escrito FÉ, com pequenos pontos brilhantes claros, sobre apoio dourado.",
+        "largura": 1365,
+        "altura": 1820,
+        "bytes": 279923,
+        "sha256": "accef6a561300ffdbe30488425df28249efec143766983ec146498471b5eb954",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 55%"
+      },
+      "uso_sugerido": "Produto de destaque e seção de presentes com significado.",
+      "observacoes": "Confirmar composição dos pontos brilhantes, comprimento e peso.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20pulseira%20f%C3%A9%20em%20ouro%2018k%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DWgybzdjrhn/"
+      }
+    },
+    {
+      "id": "MJ-06",
+      "slug": "pulseira-medalha-simbolos",
+      "nome_editorial": "Pulseira com medalha e símbolos",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Pulseiras",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Pulseira delicada de tonalidade dourada com medalha circular trabalhada e pequenos símbolos laterais.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro citado na legenda; teor não especificado."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DWgx6HKjpoF/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": null,
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda menciona ouro e símbolos. A medalha e os elementos laterais são descritos a partir da imagem.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/656372330_18344968234214308_2334778348317951414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzg2NDMwNzk3Nzk4NTg5MDgyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM2NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ImmVQ5Wq20YQ7kNvwFctdBD&_nc_oc=AdqqIMw4Qu9GgnSWLfdgiSUpdrMHKgkkWbjUGel-cLj1ohaV8zpD1UUx8D-K8znCqU37-CgtlMZaucHGq7aEnBqB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=4CindphgkW737-lUXUF7Sw&_nc_ss=7a22e&oh=00_AQJwiaJT_4cJ0MPWvKcijy_EvPq3fFnKghulCA6Byx7kfg&oe=6AAA308B",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/06-pulseira-medalha-simbolos.jpg",
+        "alt": "Pulseira delicada de tonalidade dourada com medalha circular trabalhada e pequenos símbolos laterais.",
+        "largura": 1365,
+        "altura": 1820,
+        "bytes": 247904,
+        "sha256": "7e8ec029cf5dffeef63dc4278e2ac3939e8d470ff3a404eb7e9e8039ecdd9102",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 55%"
+      },
+      "uso_sugerido": "Seção de presentes e pulseiras delicadas.",
+      "observacoes": "Confirmar nome comercial, significado dos símbolos e teor do ouro.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20pulseira%20com%20medalha%20e%20s%C3%ADmbolos%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DWgx6HKjpoF/"
+      }
+    },
+    {
+      "id": "MJ-07",
+      "slug": "pulseira-esmeraldas",
+      "nome_editorial": "Pulseira com esmeraldas",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Pulseiras",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Pulseira de tonalidade dourada com motivo central curvo, pedras verdes em composição floral e pequenos pontos brilhantes.",
+      "informacoes_confirmadas_na_fonte": {
+        "metal": "Ouro citado na legenda; teor não especificado.",
+        "pedras": "Esmeralda citada na legenda; origem e tratamento não informados."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Instagram",
+        "url": "https://www.instagram.com/margenjoias/p/DWgunTlji7L/",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": null,
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "A legenda associa a peça ao ouro e à esmeralda. Não informa quilatagem ou características gemológicas.",
+        "arquivo_remoto": "https://instagram.faju21-1.fna.fbcdn.net/v/t51.82787-15/657840087_18344965303214308_412459702326210856_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg2NDI5MzQ5MTUxNDE1ODc5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v766YKrQ6nYQ7kNvwEQTa3R&_nc_oc=Adrkr8kM8AlpSDLLpb2lqOZacMb7kYzJ50e1OsmWEZ_Hltwj2eaj7HEAGQNgO7ATUEtLQdscwnr5J_yoEFAkpSuG&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faju21-1.fna&_nc_gid=4CindphgkW737-lUXUF7Sw&_nc_ss=7a22e&oh=00_AQLmupge9LUcUmRB5ryYSQuUBJ_Xtyua4pvZaohiMlYaGQ&oe=6AAA1429",
+        "id_foto_maps": null
+      },
+      "imagem": {
+        "arquivo": "imagens/07-pulseira-esmeraldas.jpg",
+        "alt": "Pulseira de tonalidade dourada com motivo central curvo, pedras verdes em composição floral e pequenos pontos brilhantes.",
+        "largura": 1440,
+        "altura": 1920,
+        "bytes": 300795,
+        "sha256": "e06c254fccf714595ccf83ceacc2eb3aa2191e0daf699b33173d595a2b295f97",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 55%"
+      },
+      "uso_sugerido": "Destaque para joias com pedras coloridas.",
+      "observacoes": "Confirmar teor do ouro, especificação das esmeraldas e tipo das pedras claras.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20pulseira%20com%20esmeraldas%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.instagram.com/margenjoias/p/DWgunTlji7L/"
+      }
+    },
+    {
+      "id": "MJ-08",
+      "slug": "colares-expositor-maps",
+      "nome_editorial": "Seleção de colares com pingentes",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Colares",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Quatro colares de tonalidade prateada em expositor branco, com pingentes claros e azuis e um motivo de pássaro.",
+      "informacoes_confirmadas_na_fonte": {},
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Google Maps",
+        "url": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-07",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "Foto publicada pelo perfil comercial no Google Maps em julho de 2026; sem ficha técnica individual.",
+        "arquivo_remoto": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmz9IUHD2xI9WMAyGmFgYqeD3RXCzJdJL7af9fzsOn_ZeBIFO9jr4RHglSBI_Ocm8dEZm5Xm2Fz9ksMlstM3ua2c9aIFR3hHB4dwletQMLFLkTj18Jftwm66go1zEpx_ihvihZNpPS0mn_V=s1024-v1",
+        "id_foto_maps": "CIABIhCHsUrdB4HWtps0xRTtWGQx"
+      },
+      "imagem": {
+        "arquivo": "imagens/08-colares-expositor-maps.jpg",
+        "alt": "Quatro colares de tonalidade prateada em expositor branco, com pingentes claros e azuis e um motivo de pássaro.",
+        "largura": 768,
+        "altura": 1024,
+        "bytes": 53592,
+        "sha256": "c2c7c92c25bf2732e6ccca2ecaeefa5318a46dd9f26a136a39f4178e00563cf2",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 48%"
+      },
+      "uso_sugerido": "Galeria da loja e variedade de colares.",
+      "observacoes": "Tonalidade prateada não confirma prata nem ouro branco. Confirmar materiais e pedras de cada colar.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20sele%C3%A7%C3%A3o%20de%20colares%20com%20pingentes%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.google.com/maps/place/Margen%2BJoias%2B%257C%2BJoias%2Bem%2BOuro%2B18k%2Bpara%2Btodos%2Bos%2Bestilos/%40-10.932819%2C-37.0502016%2C17z/data%3D%213m1%214b1%214m6%213m5%211s0x71ab30f76953275%3A0x7e48645c73b64a82%218m2%213d-10.932819%214d-37.0502016%2116s%252Fg%252F11p5g5mshx"
+      }
+    },
+    {
+      "id": "MJ-09",
+      "slug": "relogios-champion-maps",
+      "nome_editorial": "Relógios Champion na vitrine",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Relógios",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Relógios analógicos em diferentes acabamentos, junto de estojos com a marca Champion, na vitrine da loja.",
+      "informacoes_confirmadas_na_fonte": {
+        "marca_observada": "Champion aparece nos estojos; confirmar marca e referência de cada relógio."
+      },
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Google Maps",
+        "url": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2026-07",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "Foto do perfil comercial no Google Maps em julho de 2026. Champion é legível nos estojos.",
+        "arquivo_remoto": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndfWfIBqmElurUAAc_iqaSPaH0RYrA5Fk4cxeumrwrvEqhaR91fpWHdB-QNLj2DpWbvmGrm-0GI-bOWvtKFgA5fkFJGzGNSru0n0tdwMlDvGwJKPwnN87Uh52ttLjL-1E8A9qN5j2DVr3Q=s677-k-no",
+        "id_foto_maps": "CIABIhAFf4oQX-aTberDHuRqrfuH"
+      },
+      "imagem": {
+        "arquivo": "imagens/09-relogios-champion-maps.jpg",
+        "alt": "Relógios analógicos em diferentes acabamentos, junto de estojos com a marca Champion, na vitrine da loja.",
+        "largura": 508,
+        "altura": 677,
+        "bytes": 75979,
+        "sha256": "8c23726c883b94108476a984407ca8e2f0c61a9b25db367bafe01b78872c01bd",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 50%"
+      },
+      "uso_sugerido": "Cartão compacto da categoria relógios.",
+      "observacoes": "Resolução de 508 × 677 px: evitar banner amplo e ampliação. Confirmar modelo, mecanismo e resistência à água.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20rel%C3%B3gios%20champion%20na%20vitrine%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.google.com/maps/place/Margen%2BJoias%2B%257C%2BJoias%2Bem%2BOuro%2B18k%2Bpara%2Btodos%2Bos%2Bestilos/%40-10.932819%2C-37.0502016%2C17z/data%3D%213m1%214b1%214m6%213m5%211s0x71ab30f76953275%3A0x7e48645c73b64a82%218m2%213d-10.932819%214d-37.0502016%2116s%252Fg%252F11p5g5mshx"
+      }
+    },
+    {
+      "id": "MJ-10",
+      "slug": "aneis-composicao-maps",
+      "nome_editorial": "Composição de anéis",
+      "nome_oficial": null,
+      "sku": null,
+      "categoria": "Anéis",
+      "tipo_registro": "selecao_fotografica",
+      "descricao_visual": "Diversos anéis em mãos, com tonalidades douradas, elementos coloridos, peça oval clara, formas geométricas e a palavra fé.",
+      "informacoes_confirmadas_na_fonte": {},
+      "preco_brl": null,
+      "disponibilidade": null,
+      "peso_gramas": null,
+      "medidas": null,
+      "garantia": null,
+      "fonte": {
+        "plataforma": "Google Maps",
+        "url": "https://www.google.com/maps/place/Margen+Joias+%7C+Joias+em+Ouro+18k+para+todos+os+estilos/@-10.932819,-37.0502016,17z/data=!3m1!4b1!4m6!3m5!1s0x71ab30f76953275:0x7e48645c73b64a82!8m2!3d-10.932819!4d-37.0502016!16s%2Fg%2F11p5g5mshx",
+        "autor_exibido": "Margen Joias",
+        "data_publicacao": "2023-03",
+        "data_consulta": "2026-09-11",
+        "resumo_evidencia": "Foto do perfil comercial no Maps, publicada em março de 2023; a interface indica captura em dezembro de 2022.",
+        "arquivo_remoto": "https://lh3.googleusercontent.com/gpms-cs-s/AFP8RcOzQrhsm4hep91P9lgyqnx1cm3ST-uhGG9YMFY4tGZ_DVgqyGFm9JdBou1wy163T-JmG2mS00KwDL9e6OKkGDCzt-CWsnKSWcV3vKlcoKL9yGclTf8SpjdONYa6krROROh3PXY=s1024-v1",
+        "id_foto_maps": "CIHM0ogKEICAgIDhvpSELw"
+      },
+      "imagem": {
+        "arquivo": "imagens/10-aneis-composicao-maps.jpg",
+        "alt": "Diversos anéis em mãos, com tonalidades douradas, elementos coloridos, peça oval clara, formas geométricas e a palavra fé.",
+        "largura": 683,
+        "altura": 1024,
+        "bytes": 70280,
+        "sha256": "770c3d63c7c4b5bf7d3074bbb37af94b2cf79cecb7168ea164951f39a6adf2b5",
+        "formato": "image/jpeg",
+        "edicoes": "Nenhuma; arquivo exportado da plataforma.",
+        "object_fit": "contain",
+        "foco_sugerido": "50% 50%"
+      },
+      "uso_sugerido": "Referência de estilo e variedade de anéis, sujeita à atualização da coleção.",
+      "observacoes": "Foto antiga: confirmar disponibilidade de cada modelo. Materiais, pedras e tamanhos não informados.",
+      "cta": {
+        "texto": "Consultar esta peça",
+        "url": "https://wa.me/5579998080745?text=Ol%C3%A1%21%20Gostaria%20de%20consultar%20composi%C3%A7%C3%A3o%20de%20an%C3%A9is%20que%20vi%20na%20sele%C3%A7%C3%A3o%20da%20Margen.%20Refer%C3%AAncia%3A%20https%3A//www.google.com/maps/place/Margen%2BJoias%2B%257C%2BJoias%2Bem%2BOuro%2B18k%2Bpara%2Btodos%2Bos%2Bestilos/%40-10.932819%2C-37.0502016%2C17z/data%3D%213m1%214b1%214m6%213m5%211s0x71ab30f76953275%3A0x7e48645c73b64a82%218m2%213d-10.932819%214d-37.0502016%2116s%252Fg%252F11p5g5mshx"
+      }
+    }
+  ]
+}
