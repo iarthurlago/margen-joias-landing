@@ -1,0 +1,594 @@
+{
+  "data": "2026-10-16",
+  "total": 14,
+  "imagens": [
+    {
+      "id": "mj-01",
+      "produto_catalogo": "MJ-01",
+      "titulo": "Colares com pingentes afetivos",
+      "variante": 1,
+      "arquivo": "mj-01-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1433842,
+      "sha256": "42d326c9e86656e862e6146f48e9d43da1f549b6b94d6124c8fc478c16ddbd70",
+      "referencia_original": "../imagens/01-colares-pingentes-afetivos.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Silhuetas principais preservadas. Contorno da fada, argolas de suspensão e textura dos pingentes foram reinterpretados; fidelidade exata não comprovada.",
+      "rgb_cantos": [
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Colares com pingentes afetivos — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-01",
+      "produto_catalogo": "MJ-01",
+      "titulo": "Colares com pingentes afetivos",
+      "variante": 2,
+      "arquivo": "mj-01-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1447478,
+      "sha256": "c79d4d132ebba5fe7f499693846846f269695e5c6c821b3e3ca55ed2e41a9612",
+      "referencia_original": "../imagens/01-colares-pingentes-afetivos.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Silhuetas principais preservadas. Contorno da fada, argolas de suspensão e textura dos pingentes foram reinterpretados; fidelidade exata não comprovada.",
+      "rgb_cantos": [
+        [
+          251,
+          244,
+          220
+        ],
+        [
+          251,
+          250,
+          245
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Colares com pingentes afetivos — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-02",
+      "produto_catalogo": "MJ-02",
+      "titulo": "Conjunto com pedras coloridas",
+      "variante": 1,
+      "arquivo": "mj-02-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1345622,
+      "sha256": "2bd89e7d3887d9f51a8f3ed79352b3cf64d612a8fb4249b04d2d01c3b24a997a",
+      "referencia_original": "../imagens/02-colar-brincos-pedras-coloridas.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Três componentes e nove pedras nas cores e posições gerais da referência. Conferir garras e ligações finas; lapidação e reflexos foram recriados.",
+      "rgb_cantos": [
+        [
+          253,
+          254,
+          254
+        ],
+        [
+          254,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Conjunto com pedras coloridas — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-02",
+      "produto_catalogo": "MJ-02",
+      "titulo": "Conjunto com pedras coloridas",
+      "variante": 2,
+      "arquivo": "mj-02-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1553904,
+      "sha256": "834a6bdbd0f548c46449f4938141137cd0048d1e4476ffb19f13d9b2e0ff8a1b",
+      "referencia_original": "../imagens/02-colar-brincos-pedras-coloridas.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Três componentes e nove pedras nas cores e posições gerais da referência. Conferir garras e ligações finas; lapidação e reflexos foram recriados.",
+      "rgb_cantos": [
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Conjunto com pedras coloridas — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-05",
+      "produto_catalogo": "MJ-05",
+      "titulo": "Pulseira Fé",
+      "variante": 1,
+      "arquivo": "mj-05-v1-r2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1456211,
+      "sha256": "cb0f951f6104be8238263d0b3c124cb3c7e7b93b164e541b7fd60b4c0d296758",
+      "referencia_original": "../imagens/05-pulseira-fe-ouro18k.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Selecionada a segunda geração com pavê menor. Conferir diâmetro dos elos, número e disposição das pedras e proporção do pingente.",
+      "rgb_cantos": [
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira Fé — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-05",
+      "produto_catalogo": "MJ-05",
+      "titulo": "Pulseira Fé",
+      "variante": 2,
+      "arquivo": "mj-05-v2-r2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1464086,
+      "sha256": "705a412db9eca0c1edd053a6d7c7f13640004816fe81484eab8df02deeab8202",
+      "referencia_original": "../imagens/05-pulseira-fe-ouro18k.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Selecionada a segunda geração com pavê menor. Conferir diâmetro dos elos, número e disposição das pedras e proporção do pingente.",
+      "rgb_cantos": [
+        [
+          205,
+          166,
+          106
+        ],
+        [
+          196,
+          125,
+          16
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          253,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira Fé — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-06",
+      "produto_catalogo": "MJ-06",
+      "titulo": "Pulseira com medalha e símbolos",
+      "variante": 1,
+      "arquivo": "mj-06-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1314202,
+      "sha256": "39cdd15a3807725d835a3499186675df0b91c32911e6185e3769ec78cb05a52a",
+      "referencia_original": "../imagens/06-pulseira-medalha-simbolos.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "nao_aprovada_para_fidelidade",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Inscrições da medalha reinterpretadas. Não usar como reprodução fiel de produto: requer correção baseada em fotografia com maior definição.",
+      "rgb_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira com medalha e símbolos — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-06",
+      "produto_catalogo": "MJ-06",
+      "titulo": "Pulseira com medalha e símbolos",
+      "variante": 2,
+      "arquivo": "mj-06-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1343439,
+      "sha256": "4c7f0c92df0cc4d6974affc18776f588d192256078e5d24df833031ee300f1c5",
+      "referencia_original": "../imagens/06-pulseira-medalha-simbolos.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "nao_aprovada_para_fidelidade",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Inscrições da medalha reinterpretadas. Não usar como reprodução fiel de produto: requer correção baseada em fotografia com maior definição.",
+      "rgb_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          254,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira com medalha e símbolos — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-07",
+      "produto_catalogo": "MJ-07",
+      "titulo": "Pulseira com esmeraldas",
+      "variante": 1,
+      "arquivo": "mj-07-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1256579,
+      "sha256": "25f3a69cb27851474e3f0bd276975cf2797c3cada196b353e5ea9fa563c7b495",
+      "referencia_original": "../imagens/07-pulseira-esmeraldas.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Sete pedras verdes e duas curvas centrais mantidas. Conferir cravações, pedras claras e construção do fecho.",
+      "rgb_cantos": [
+        [
+          254,
+          255,
+          254
+        ],
+        [
+          254,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira com esmeraldas — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "mj-07",
+      "produto_catalogo": "MJ-07",
+      "titulo": "Pulseira com esmeraldas",
+      "variante": 2,
+      "arquivo": "mj-07-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1232077,
+      "sha256": "f4a8d46da0bc55373f1e6ed056d406ec7af437db26677604b98d5f5c5a052049",
+      "referencia_original": "../imagens/07-pulseira-esmeraldas.jpg",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Sete pedras verdes e duas curvas centrais mantidas. Conferir cravações, pedras claras e construção do fecho.",
+      "rgb_cantos": [
+        [
+          253,
+          255,
+          254
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Pulseira com esmeraldas — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "extra-aneis",
+      "produto_catalogo": null,
+      "titulo": "Anéis — faixa com pedras e solitário",
+      "variante": 1,
+      "arquivo": "extra-aneis-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1051168,
+      "sha256": "87d4d8f985e9a6617d5ee011e7faabfdea29aabc96f6501692031ade967fe490",
+      "referencia_original": "../imagens/01.02-colares-pingentes-afetivos.png",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Identificação visual corrigida: dois anéis, faixa com pedras e solitário. Referência pequena (447 × 620); quantidade de pedras, espessura e garras não confirmadas.",
+      "rgb_cantos": [
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          253,
+          252,
+          251
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Anéis — faixa com pedras e solitário — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "extra-aneis",
+      "produto_catalogo": null,
+      "titulo": "Anéis — faixa com pedras e solitário",
+      "variante": 2,
+      "arquivo": "extra-aneis-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1238417,
+      "sha256": "06ce3766140402b7428bb12d70457a298d93b80a0b832658a1d421eebb85c62b",
+      "referencia_original": "../imagens/01.02-colares-pingentes-afetivos.png",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Identificação visual corrigida: dois anéis, faixa com pedras e solitário. Referência pequena (447 × 620); quantidade de pedras, espessura e garras não confirmadas.",
+      "rgb_cantos": [
+        [
+          253,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Anéis — faixa com pedras e solitário — variação 2 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "extra-anel",
+      "produto_catalogo": null,
+      "titulo": "Anel com três pedras coloridas",
+      "variante": 1,
+      "arquivo": "extra-anel-v1-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1193451,
+      "sha256": "6ec591bcc3c03d2ff2cf14800afd28b8e91e692a7a8c5ce707e019140bc3301c",
+      "referencia_original": "../imagens/02.02-colar-brincos-peças-coloridas.png",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Três pedras e configuração triangular mantidas. Referência pequena (449 × 298); facetas, garras e espessura do aro não confirmadas.",
+      "rgb_cantos": [
+        [
+          254,
+          255,
+          255
+        ],
+        [
+          254,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          254,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Anel com três pedras coloridas — variação 1 gerada por IA sobre fundo branco"
+    },
+    {
+      "id": "extra-anel",
+      "produto_catalogo": null,
+      "titulo": "Anel com três pedras coloridas",
+      "variante": 2,
+      "arquivo": "extra-anel-v2-branco.png",
+      "largura": 1086,
+      "altura": 1448,
+      "formato": "PNG",
+      "bytes": 1327592,
+      "sha256": "2ab08c64b087c0252b427d9946686d107c965aeb762b241290fe4fa6553823df",
+      "referencia_original": "../imagens/02.02-colar-brincos-peças-coloridas.png",
+      "gerada_por_ia": true,
+      "modo": "image_gen integrada",
+      "status": "revisao_de_fidelidade_pendente",
+      "aprovada_para_publicacao": false,
+      "nota_revisao": "Três pedras e configuração triangular mantidas. Referência pequena (449 × 298); facetas, garras e espessura do aro não confirmadas.",
+      "rgb_cantos": [
+        [
+          253,
+          253,
+          255
+        ],
+        [
+          255,
+          255,
+          255
+        ],
+        [
+          254,
+          254,
+          254
+        ],
+        [
+          254,
+          253,
+          254
+        ]
+      ],
+      "fundo_255_uniforme_comprovado": false,
+      "alt": "Anel com três pedras coloridas — variação 2 gerada por IA sobre fundo branco"
+    }
+  ]
+}
