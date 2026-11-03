@@ -2,14 +2,15 @@ import { giftProduct } from '../../data/catalog';
 import { ContactLink } from '../ui/ContactLink';
 import { ProductImage } from '../ui/ProductImage';
 import styles from './BrandStory.module.css';
+import { productHref } from '../../data/productDetails';
 
 export function BrandStory() {
   return (
     <section className={styles.section} id="historia" aria-labelledby="story-title">
       <div className={`container ${styles.inner}`}>
-        <div className={styles.imageFrame}>
+        <a className={styles.imageFrame} style={{ display: 'block' }} href={productHref(giftProduct)} aria-label={`Ver detalhes de ${giftProduct.name}`}>
           <ProductImage product={giftProduct} sizes="(min-width: 52rem) 380px, 88vw" />
-        </div>
+        </a>
         <div className={styles.copy}>
           <p className="eyebrow">A Margen · Desde 2014</p>
           <h2 id="story-title">Um presente.<br />Infinitas <em>memórias.</em></h2>

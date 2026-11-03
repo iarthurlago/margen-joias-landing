@@ -3,7 +3,12 @@
 .heading h2 { margin-top: 14px; }
 .heading > p { max-width: 350px; color: var(--muted); }
 .grid { display: grid; gap: 34px 22px; grid-template-columns: minmax(0, 1fr); }
-.card { min-width: 0; display: flex; flex-direction: column; }
+.card { min-width: 0; display: flex; flex-direction: column; position: relative; }
+.productLink { text-decoration: none; }
+.productLink::after { content: ''; position: absolute; inset: 0; z-index: 1; }
+.productLink:focus-visible::after { outline: 3px solid var(--gold); outline-offset: 5px; }
+.card:hover .productLink { text-decoration: underline; }
+.details > a { position: relative; z-index: 2; }
 .imageFrame { aspect-ratio: 3 / 4; background: #f0e8df; }
 .details { flex: 1; display: flex; flex-direction: column; align-items: flex-start; padding-block: 20px 0; }
 .category { font-size: .75rem; color: var(--gold); letter-spacing: .1em; text-transform: uppercase; }

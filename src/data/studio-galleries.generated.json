@@ -1,0 +1,44 @@
+{
+  "MJ-01": {
+    "src": "/images/detalhes/mj-01-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-01-v2-360.webp 360w, /images/detalhes/mj-01-v2-720.webp 720w, /images/detalhes/mj-01-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-02": {
+    "src": "/images/detalhes/mj-02-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-02-v2-360.webp 360w, /images/detalhes/mj-02-v2-720.webp 720w, /images/detalhes/mj-02-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-03": {
+    "src": "/images/detalhes/mj-03-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-03-v2-360.webp 360w, /images/detalhes/mj-03-v2-720.webp 720w, /images/detalhes/mj-03-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-04": {
+    "src": "/images/detalhes/mj-04-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-04-v2-360.webp 360w, /images/detalhes/mj-04-v2-720.webp 720w, /images/detalhes/mj-04-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-05": {
+    "src": "/images/detalhes/mj-05-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-05-v2-360.webp 360w, /images/detalhes/mj-05-v2-720.webp 720w, /images/detalhes/mj-05-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-06": {
+    "src": "/images/detalhes/mj-06-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-06-v2-360.webp 360w, /images/detalhes/mj-06-v2-720.webp 720w, /images/detalhes/mj-06-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  },
+  "MJ-07": {
+    "src": "/images/detalhes/mj-07-v2-720.webp",
+    "srcSet": "/images/detalhes/mj-07-v2-360.webp 360w, /images/detalhes/mj-07-v2-720.webp 720w, /images/detalhes/mj-07-v2-1080.webp 1080w",
+    "width": 1086,
+    "height": 1448
+  }
+}

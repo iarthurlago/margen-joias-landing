@@ -4,7 +4,11 @@ import styles from './Header.module.css';
 export function Header() {
   return (
     <>
-      <a className="skip-link" href="#conteudo">Pular para o conteúdo</a>
+      <a className="skip-link" href="#conteudo" onClick={(event) => {
+        // Mantém a rota do produto ao pular a navegação.
+        event.preventDefault();
+        document.getElementById('conteudo')?.focus();
+      }}>Pular para o conteúdo</a>
       <div className={styles.announcement}>Desde 2014, fazendo parte da sua história.</div>
       <header className={styles.header}>
         <div className={`container ${styles.inner}`}>

@@ -2,6 +2,7 @@ import { heroProduct } from '../../data/catalog';
 import { ContactLink } from '../ui/ContactLink';
 import { ProductImage } from '../ui/ProductImage';
 import styles from './Hero.module.css';
+import { productHref } from '../../data/productDetails';
 
 export function Hero() {
   return (
@@ -17,9 +18,9 @@ export function Hero() {
         <p className={styles.signature}>Ouro, prata, semijoias e relógios.<br />Um olhar especial para cada escolha.</p>
       </div>
       <figure className={styles.figure}>
-        <div className={styles.imageFrame}>
+        <a className={styles.imageFrame} style={{ display: 'block' }} href={productHref(heroProduct)} aria-label={`Ver detalhes de ${heroProduct.name}`}>
           <ProductImage product={heroProduct} priority sizes="(min-width: 72rem) 440px, (min-width: 52rem) 42vw, 88vw" />
-        </div>
+        </a>
         <figcaption><span>Em destaque</span><span>Colar pantera com elos portugueses</span></figcaption>
       </figure>
     </section>

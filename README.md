@@ -19,6 +19,7 @@ Margen/
 │   │   ├── Header/
 │   │   ├── Hero/
 │   │   ├── ProductGallery/      # ProductGallery + ProductCard
+│   │   ├── ProductDetail/       # Detalhes, galeria e recomendações
 │   │   ├── BrandStory/
 │   │   ├── CallToAction/
 │   │   ├── Footer/
@@ -59,7 +60,13 @@ npm run check:build
 npm run preview
 ```
 
-A prévia de produção fica em `http://127.0.0.1:4173`. O resultado publicável está em `dist/`, para hospedagem estática na raiz do domínio. O projeto não publica automaticamente.
+A prévia de produção fica em `http://127.0.0.1:4173`. O resultado publicável está em `dist/`.
+
+## Deploy no GitHub Pages
+
+O workflow `.github/workflows/deploy-pages.yml` compila e valida a aplicação a cada push na branch `main`, envia somente `dist/` e publica pelo GitHub Pages. Durante esse build, `VITE_BASE_PATH=/margen-joias-landing/` garante que JavaScript, favicon e imagens sejam carregados no subdiretório do repositório. O desenvolvimento local continua disponível na raiz, em `http://127.0.0.1:5173/`.
+
+No GitHub, a fonte de publicação do Pages deve estar definida como **GitHub Actions** em **Settings → Pages → Build and deployment**.
 
 ## JAMstack e integração futura
 
@@ -98,3 +105,11 @@ Inclui `lang="pt-BR"`, landmarks semânticos, hierarquia de títulos, textos alt
 - [React: hydrateRoot](https://react.dev/reference/react-dom/client/hydrateRoot)
 
 O comando de build executa a checagem TypeScript. `check:build` verifica o HTML pré-renderizado, presença das dez fotos, variantes locais, assets, URLs de consulta e âncoras.
+
+## Visualização dos produtos
+
+Os cards e as imagens em destaque abrem detalhes em URLs como `/#produto/mj-05`. A navegação usa fragmentos, compatíveis com hospedagem estática, links diretos e histórico do navegador. Os detalhes dependem de JavaScript; a vitrine e os links de consulta continuam disponíveis no HTML inicial.
+
+A galeria oferece miniaturas, setas e ampliação em tela cheia com fechamento por Escape. As teclas de seta navegam entre as fotos quando o foco está na galeria. `prepare-detail-assets.mjs` prepara as sete variações de estúdio, associadas explicitamente por ID, e as fotos adicionais existentes de MJ-03 e MJ-04 também são usadas. MJ-08, MJ-09 e MJ-10 têm apenas sua foto original disponível.
+
+A seção “Você também pode gostar” apresenta quatro outros produtos, priorizando a mesma categoria. `check:build` também verifica a renderização das dez páginas de detalhes, as variantes das galerias, os destinos dos links e a exclusão do produto atual das recomendações.
