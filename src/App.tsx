@@ -4,6 +4,7 @@ import { ProductGallery } from './components/ProductGallery/ProductGallery';
 import { BrandStory } from './components/BrandStory/BrandStory';
 import { CallToAction } from './components/CallToAction/CallToAction';
 import { Footer } from './components/Footer/Footer';
+import { CustomerReviews } from './components/CustomerReviews/CustomerReviews';
 import { useEffect, useSyncExternalStore } from 'react';
 import { products } from './data/catalog';
 import { ProductDetail } from './components/ProductDetail/ProductDetail';
@@ -44,6 +45,7 @@ export default function App() {
         <BrandStory />
         <CallToAction />
         </>}
+        <CustomerReviews />
       </main>
       <Footer />
     </>

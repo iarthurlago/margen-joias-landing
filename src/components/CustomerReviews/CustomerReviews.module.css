@@ -1,0 +1,11 @@
+.section { border-top: 1px solid var(--line); padding-block: 64px 72px; }
+.heading { text-align: center; margin-bottom: 34px; }
+.heading h2 { margin-top: 12px; }
+.grid { display: grid; gap: 16px; }
+.review { display: flex; flex-direction: column; margin: 0; padding: 28px; border: 1px solid var(--line); background: #fffdf9; }
+.stars { color: var(--gold); letter-spacing: .14em; line-height: 1; margin-bottom: 22px; }
+.review blockquote { margin: 0 0 24px; flex: 1; font-family: var(--serif); font-size: 1.2rem; line-height: 1.4; }
+.review figcaption { color: var(--wine); font-size: .8125rem; font-weight: 600; }
+.review figcaption span { color: var(--muted); font-weight: 400; }
+.source { display: flex; align-items: center; justify-content: center; gap: 10px; width: fit-content; min-height: 44px; margin: 28px auto 0; color: var(--wine); font-size: .875rem; }
+@media (min-width: 48rem) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }

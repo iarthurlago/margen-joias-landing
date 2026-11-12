@@ -13,6 +13,13 @@ await mkdir(path.join(root, 'src', 'data'), { recursive: true });
 const products = [];
 let totalBytes = 0;
 
+function consultationUrl(product) {
+  if (!['MJ-08', 'MJ-09', 'MJ-10'].includes(product.id)) return product.cta.url;
+  const url = new URL(product.cta.url);
+  url.searchParams.set('text', `Olá! Gostaria de consultar ${product.nome_editorial} na Margen Joias. Código da seleção: ${product.id}.`);
+  return url.toString();
+}
+
 // Processamento sequencial entre originais mantém o uso de memória previsível.
 for (const product of catalog.produtos) {
   const original = path.join(sourceDirectory, product.imagem.arquivo);
@@ -38,7 +45,7 @@ for (const product of catalog.produtos) {
     id: product.id,
     name: product.nome_editorial,
     category: product.categoria,
-    consultationUrl: product.cta.url,
+    consultationUrl: consultationUrl(product),
     note: product.id === 'MJ-10' ? 'Referência de coleção. Consulte os modelos disponíveis.' : '',
     image: {
       src: fallback.src,

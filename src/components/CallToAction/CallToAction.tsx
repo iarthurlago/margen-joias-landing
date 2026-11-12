@@ -24,7 +24,6 @@ export function CallToAction() {
             <div key={days}><dt>{days}</dt><dd>{time}</dd></div>
           ))}
         </dl>
-        <p className={styles.hours}>Horários informados em 11/09/2026. Confirme antes da visita.</p>
       </div>
     </section>
   );

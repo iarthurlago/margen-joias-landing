@@ -18,6 +18,15 @@ for (const product of products) {
     await access(new URL(entry.split(' ')[0].replace(/^\//, ''), root));
   }
 }
+for (const product of products.slice(7)) {
+  const message = new URL(product.consultationUrl).searchParams.get('text');
+  assert.ok(message?.includes(product.id), `Código ausente na consulta: ${product.id}`);
+  assert.ok(!message.includes('google.com/maps'), `URL extensa na consulta: ${product.id}`);
+}
+for (const author of ['julianna carvalho', 'Jonathan Levi', 'Andreza Coutinho']) {
+  assert.ok(html.includes(author), `Avaliação ausente: ${author}`);
+}
+assert.ok(!html.includes('Horários informados em'), 'Aviso de data antigo no HTML.');
 const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map((match) => match[1]);
 assert.equal(new Set(ids).size, ids.length, 'Os IDs devem ser únicos.');
 const productRoutes = products.map(product => `produto/${product.id.toLowerCase()}`);

@@ -90,7 +90,9 @@ Para integrar Cloudflare Workers/KV:
 - `srcSet`/`sizes`, dimensões explícitas e `object-fit: contain` evitam distorções e deslocamentos de layout. Só a imagem de abertura recebe prioridade alta; as demais usam carregamento tardio.
 - Os originais e os PNGs adicionais permanecem intactos. As fontes temporárias de CDN não são usadas pela aplicação.
 - Nomes são editoriais; fotografias podem representar composições. Preços, estoque e características não confirmadas não foram inventados.
-- O retrato dos anéis aparece como referência de coleção. Os horários preservam a diferença de quinta-feira e exibem a data de consulta, 11/09/2026. Revalidar horários e demais informações dinâmicas antes da publicação.
+- O retrato dos anéis aparece como referência de coleção. Os horários preservam a diferença de quinta-feira. Revalidar horários e demais informações dinâmicas antes da publicação.
+- Os links de consulta de MJ-08 a MJ-10 usam o código curto da seleção no lugar da URL extensa do Maps.
+- Três trechos de avaliações de clientes, conferidos na ficha pública do Google Maps em 12/11/2026, aparecem antes do rodapé com autores e link para a fonte.
 - A assinatura tipográfica e o favicon com inicial são provisórios. Substitua pelos arquivos oficiais quando disponíveis.
 
 ## UI e acessibilidade
